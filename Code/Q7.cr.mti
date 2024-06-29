@@ -1,0 +1,29 @@
+C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/CPU.v {1 {vlog -work work C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/MEMORY.v {1 {vlog -work work C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/MEMORY.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEMORY
+
+Top level modules:
+	MEMORY
+
+} {} {}} C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/REG.v {1 {vlog -work work {C:\Users\Lenovo\Desktop\jobranipaianterm\jobranipaianterm\Code\REG.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG
+
+Top level modules:
+	REG
+
+} {} {}} C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/ALU.v {1 {vlog -work work C:/Users/Lenovo/Desktop/jobranipaianterm/jobranipaianterm/Code/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
